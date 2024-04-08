@@ -23,7 +23,7 @@ A model is the single, definitive source of information about your data. It cont
 ## Defining a Model
 
 - To start working on models first of all you have to create a Django project for it.
-- Read our blog to <a href='https://prasadchavan.vercel.app/blog/django-startup'>start Django App</a>.
+- Read our blog to <a href='https://İlyasAKTAŞ.vercel.app/blog/django-startup'>start Django App</a>.
 - After creating app navigate to directory containing Models.py file.
 - In this file you can define the structure of your data using Python classes.
 - Refer above example for creating student model.

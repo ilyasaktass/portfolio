@@ -6,7 +6,7 @@ const About = () => {
   return (
     <div className="h-screen lg:pl-20 lg:pr-32">
       <Head>
-        <title>About | Prasad Chavan</title>
+        <title>About | İlyas AKTAŞ</title>
       </Head>
       <div className="flex justify-between md:mx-20 md:pt-32 pt-28">
         <div className="flex flex-col md:ml-20 px-10 mt-10">
@@ -30,7 +30,7 @@ const About = () => {
                     }}
                   >
                     <h1 className="text-3xl font-bold sm:text-4xl mb-8">
-                      Hello, I&#39;m <span className="text-blue-500">Prasad</span>
+                      Hello, I&#39;m <span className="text-blue-500">İlyas</span>
                     </h1>
                   </motion.div>
                   <motion.div
@@ -80,7 +80,7 @@ const About = () => {
                   my experience is in full stack web development and problem
                   solving. Check out some of my work
                   <a
-                    href="https://github.com/prasad-chavan1"
+                    href="https://github.com/İlyas-AKTAŞ1"
                     className="underline text-blue-500"
                   >
               

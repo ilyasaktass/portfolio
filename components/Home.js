@@ -23,7 +23,7 @@ const Home = () => {
             <div className='flex px-4 md:py-32 mx-auto h-screen items-center'>
                 <div className='text-center mx-auto'>
                     <h1 className='text-4xl text-black font-extrabold md:text-6xl'>
-                        Prasad Chavan
+                        İlyas AKTAŞ
                     </h1>
                     <h1 className='text-4xl text-blue-500 font-extrabold md:text-6xl'>
                         FullStack Developer

@@ -7,7 +7,7 @@ const projects = () => {
     return (
         <div className='h-screen mx-5 sm:mx-auto pt-32'>
             <Head>
-                <title>Projects | Prasad Chavan</title>
+                <title>Projects | İlyas AKTAŞ</title>
             </Head>
             <h1 className='font-bold text-3xl text-center'></h1>
             <div className='max-w-5xl md:px-4 py-8 pb-32 mx-auto space-y-28'>
@@ -32,7 +32,7 @@ const projects = () => {
                             </cite>
                             <div className='flex pt-8 space-x-4'>
                                 <div>
-                                    <a href='https://github.com/prasad-chavan1/Animesthetic-Social-Media' target='_blank' rel='noopner noreferrer'>
+                                    <a href='https://github.com/İlyas-AKTAŞ1/Animesthetic-Social-Media' target='_blank' rel='noopner noreferrer'>
                                         <FiGithub size='30px'/>
                                     </a>
                                 </div>
@@ -65,7 +65,7 @@ const projects = () => {
                             </cite>
                             <div className='flex pt-8 space-x-4'>
                                 <div>
-                                    <a href='https://github.com/prasad-chavan1/word-scramble-extension' target='_blank' rel='noopner noreferrer'>
+                                    <a href='https://github.com/İlyas-AKTAŞ1/word-scramble-extension' target='_blank' rel='noopner noreferrer'>
                                         <FiGithub size='30px'/>
                                     </a>
                                 </div>

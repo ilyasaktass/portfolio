@@ -1,5 +1,5 @@
-# Prasad Chavan's Personal Portfolio and Blog
-Link to live site: https://prasadchavan.me
+# İlyas AKTAŞ's Personal Portfolio and Blog
+Link to live site: https://İlyasAKTAŞ.me
 
 
 ## Features
@@ -22,4 +22,4 @@ Contributions are welcome! If you have suggestions, bug reports, or feature requ
 
 ## Copyrights
 
-[© Prasad Chavan](https://github.com/prasad-chavan1) <a>2023</a>
+[© İlyas AKTAŞ](https://github.com/İlyas-AKTAŞ1) <a>2023</a>

@@ -5,7 +5,7 @@ const Error404 = () => {
     return (
         <section className='flex items-center text-black'>
             <Head>
-                <title>404 | Prasad Chavan</title>
+                <title>404 | İlyas AKTAŞ</title>
             </Head>
 
             <div className='h-screen container flex flex-col items-center justify-center px-5 mx-auto my-8'>
