@@ -18,8 +18,8 @@ export default function PostPage({
                 <Head>
                     <title>{title} | İlyas AKTAŞ</title>
                 </Head>
-                <Link href='/blog'>
-                    <a className='inline-flex px-12 py-3 text-sm font-medium text-culturedWhite bg-mnBlue rounded shadow sm:w-auto active:bg-blue-500 hover:bg-carolinaBlue focus:outline-none focus:ring'>Go Back</a>
+                <Link href='/blog'className='inline-flex px-12 py-3 text-sm font-medium text-culturedWhite bg-mnBlue rounded shadow sm:w-auto active:bg-blue-500 hover:bg-carolinaBlue focus:outline-none focus:ring'>
+                Go Back
                 </Link>
                 <div>
                     <h1 className='text-2xl font-bold pt-4'>{title}</h1>

@@ -19,10 +19,8 @@ const Navbar = () => {
                         <div className='flex items-center sm:mx-10 md:mx-10 justify-between w-full'>
                             <div className='flex justify-center items-center flex-shrink-0 '>
                                 <h1 className=' font-bold text-xl cursor-pointer'>
-                                    <Link href='/'>
-                                        <a className='text-2xl pl-8 sm:pl-0'>
+                                    <Link href='/' className='text-2xl pl-8 sm:pl-0'>
                                             İlyas<span className='text-blue-500'>AKTAŞ</span>
-                                        </a>
                                     </Link>
                                 </h1>
                             </div>
@@ -36,7 +34,7 @@ const Navbar = () => {
                                     }
                                     >
                                         <Link id='about' href='/'>
-                                            <a>Home</a>
+                                            Home
                                         </Link>
                                     </h1>
                                     <h1
@@ -47,7 +45,7 @@ const Navbar = () => {
                                     }
                                     >
                                         <Link id='about' href='/about'>
-                                            <a>About</a>
+                                            About
                                         </Link>
                                     </h1>
                                     <h1
@@ -58,7 +56,7 @@ const Navbar = () => {
                                     }
                                     >
                                         <Link id='projects' href='/projects'>
-                                            <a>Projects</a>
+                                            Projects
                                         </Link>
                                     </h1>
                                     <h1
@@ -69,7 +67,7 @@ const Navbar = () => {
                                     }
                                     >
                                         <Link id='blog' href='/blog'>
-                                            <a>Blog</a>
+                                            Blog
                                         </Link>
                                     </h1>
                                 </div>
@@ -131,8 +129,8 @@ const Navbar = () => {
                                             : 'cursor-pointer hover:text-blue-500'
                                     }
                                     >
-                                        <Link id='about' href='/'>
-                                            <a onClick={handleMobileNav}>Home</a>
+                                        <Link id='about' href='/' onClick={handleMobileNav}>
+                                            Home
                                         </Link>
                                     </h1>
                                     <h1
@@ -142,8 +140,8 @@ const Navbar = () => {
                                             : 'cursor-pointer hover:text-blue-500'
                                     }
                                     >
-                                        <Link id='about' href='/about'>
-                                            <a onClick={handleMobileNav}>About</a>
+                                        <Link id='about' href='/about'onClick={handleMobileNav}>
+                                            About
                                         </Link>
                                     </h1>
                                     <h1
@@ -153,8 +151,8 @@ const Navbar = () => {
                                             : 'cursor-pointer hover:text-blue-500'
                                     }
                                     >
-                                        <Link id='projects' href='/projects'>
-                                            <a onClick={handleMobileNav}>Projects</a>
+                                        <Link id='projects' href='/projects'onClick={handleMobileNav}>
+                                            Projects
                                         </Link>
                                     </h1>
                                     <h1
@@ -164,8 +162,8 @@ const Navbar = () => {
                                             : 'cursor-pointer hover:text-blue-500'
                                     }
                                     >
-                                        <Link id='blog' href='/blog'>
-                                            <a onClick={handleMobileNav}>Blog</a>
+                                        <Link id='blog' href='/blog'onClick={handleMobileNav}>
+                                            Blog
                                         </Link>
                                     </h1>
                                 </div>
